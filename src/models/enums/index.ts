@@ -2,3 +2,9 @@ export enum AUTH_STATUS {
   AUTHENTICATED = "AUTHENTICATED",
   NOT_AUTHENTICATED = "NOT_AUTHENTICATED",
 }
+
+export enum SORT_TYPE {
+  ALL = "ALL",
+  DATE = "DATE",
+  PAGES = "PAGES",
+}

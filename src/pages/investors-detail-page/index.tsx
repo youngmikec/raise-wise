@@ -1,18 +1,14 @@
 import React from "react";
-
-//components
 import FrontLayout from "../../shared/front-layout";
-import HomeComp from "../../components/pages-comps/home-comps/home-comp";
 
-const Home = () => {
-    
+const InvestorsDetailPage = () => {
     return (
         <>
             <FrontLayout>
-                <HomeComp />
+                <h1>Investors detail page</h1>
             </FrontLayout>
         </>
     )
 }
 
-export default Home;
+export default InvestorsDetailPage;

@@ -2779,7 +2779,7 @@ i.login-icon {
   right: 0;
   width: 38px;
   height: 38px;
-  background: url(../img/job-featured.png) no-repeat;
+  background: url("./assets/img/job-featured.png") no-repeat;
   background-size: cover;
 }
 /*------------ All Job Components: Vertical Job ------------*/

@@ -12,7 +12,7 @@ const InvestorDisplayBanner = ({ coverImage, profileImage, details }: Props) => 
     }
     return (
         <>
-            <section className="detail-section mb-4" style={styles}>
+            <section className="detail-section" style={styles}>
                 <div className="overlay"></div>
                 <div className="profile-cover-content">
                     <div className="container">
